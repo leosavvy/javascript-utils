@@ -3,6 +3,8 @@
 /node_modules
 /dist/*
 
+# All node_modules inside sub-folders
+**/node_modules
 
 # Logs
 logs
