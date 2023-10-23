@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sql-formatter": "^13.0.0",
-    "xml-formatter": "^3.6.0"
+    "uuid": "^9.0.1"
   }
 }

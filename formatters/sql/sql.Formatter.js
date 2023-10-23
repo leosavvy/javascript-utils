@@ -12,3 +12,9 @@ INSERT INTO users(id, name, age) VALUES (1, 'John Doe', 30);
 
 const formattedSQLString = formatSQLProductionGrade(sampleSQL);
 console.log('Formatted SQL:', formattedSQLString);
+
+/**
+ * Note:
+ * You can adjust the formatting styles by providing options to the format function, as documented here:
+ * https://github.com/zeroturnaround/sql-formatter#supported-options
+ */
